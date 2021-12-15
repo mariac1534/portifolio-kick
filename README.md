@@ -2,6 +2,7 @@
 Trabalho realizado durante as aulas de Wordpress da Kick.
 
 Este é o link para download do arquivo de exportação para ser usado no plugin all in one WP migration:
+https://drive.google.com/file/d/1kUv6Y8mqYP4C6qBahPUJIltbY99pQDow/view?usp=sharing
 
 Seção #1:
 
